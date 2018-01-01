@@ -1,0 +1,17 @@
+E:\cordova\contacasal\platforms\windows\build\phone\debug\anycpu\resources.pri
+E:\cordova\contacasal\platforms\windows\build\phone\debug\anycpu\AppxManifest.xml
+E:\cordova\contacasal\platforms\windows\build\phone\debug\anycpu\CordovaApp.Phone.build.appxrecipe
+E:\cordova\contacasal\platforms\windows\build\phone\bld\priconfig.xml
+E:\cordova\contacasal\platforms\windows\build\phone\bld\priconfig.xml.intermediate
+E:\cordova\contacasal\platforms\windows\build\phone\bld\layout.resfiles
+E:\cordova\contacasal\platforms\windows\build\phone\bld\layout.resfiles.intermediate
+E:\cordova\contacasal\platforms\windows\build\phone\bld\resources.resfiles
+E:\cordova\contacasal\platforms\windows\build\phone\bld\resources.resfiles.intermediate
+E:\cordova\contacasal\platforms\windows\build\phone\bld\pri.resfiles
+E:\cordova\contacasal\platforms\windows\build\phone\bld\pri.resfiles.intermediate
+E:\cordova\contacasal\platforms\windows\build\phone\bld\qualifiers.txt
+E:\cordova\contacasal\platforms\windows\build\phone\bld\qualifiers.txt.intermediate
+E:\cordova\contacasal\platforms\windows\build\phone\bld\MultipleQualifiersPerDimensionFound.txt
+E:\cordova\contacasal\platforms\windows\build\phone\bld\ProjectArchitectures.txt
+E:\cordova\contacasal\platforms\windows\build\phone\bld\package.map.txt
+E:\cordova\contacasal\platforms\windows\build\phone\bld\_pkginfo.txt

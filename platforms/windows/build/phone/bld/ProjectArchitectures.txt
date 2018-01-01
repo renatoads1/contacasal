@@ -1,0 +1,1 @@
+E:\cordova\contacasal\platforms\windows\CordovaApp.Phone.jsproj;neutral

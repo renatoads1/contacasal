@@ -1,0 +1,446 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-481T9O2</Machine>
+    <WindowsUser>renatoads1</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>debug|anycpu</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>io.cordova.hellocordova</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Apache Cordova Team</PackageIdentityPublisher>
+    <IntermediateOutputPath>E:\cordova\contacasal\platforms\windows\build\windows\bld\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\cordova\contacasal\platforms\windows\build\windows\debug\anycpu\win8.1\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\images\SplashScreen.scale-100.png">
+      <PackagePath>images\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\images\Square150x150Logo.scale-100.png">
+      <PackagePath>images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\images\Square30x30Logo.scale-100.png">
+      <PackagePath>images\Square30x30Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\images\Square310x310Logo.scale-100.png">
+      <PackagePath>images\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\images\Square44x44Logo.scale-100.png">
+      <PackagePath>images\Square44x44Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\images\Square70x70Logo.scale-100.png">
+      <PackagePath>images\Square70x70Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\images\Square71x71Logo.scale-100.png">
+      <PackagePath>images\Square71x71Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\images\StoreLogo.scale-100.png">
+      <PackagePath>images\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\images\Wide310x150Logo.scale-100.png">
+      <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\img\logo.png">
+      <PackagePath>www\img\logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\.gitignore">
+      <PackagePath>www\.gitignore</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\.jsbeautifyrc">
+      <PackagePath>www\.jsbeautifyrc</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\.travis.yml">
+      <PackagePath>www\.travis.yml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\blank.html">
+      <PackagePath>www\blank.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\cards.html">
+      <PackagePath>www\cards.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\charts.html">
+      <PackagePath>www\charts.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\drash.html">
+      <PackagePath>www\drash.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\forgot-password.html">
+      <PackagePath>www\forgot-password.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\index.html">
+      <PackagePath>www\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\navbar.html">
+      <PackagePath>www\navbar.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\register.html">
+      <PackagePath>www\register.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\tables.html">
+      <PackagePath>www\tables.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\cordova-js-src\confighelper.js">
+      <PackagePath>www\cordova-js-src\confighelper.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\cordova-js-src\exec.js">
+      <PackagePath>www\cordova-js-src\exec.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\cordova-js-src\platform.js">
+      <PackagePath>www\cordova-js-src\platform.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\cordova-js-src\splashscreen.js">
+      <PackagePath>www\cordova-js-src\splashscreen.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\cordova.js">
+      <PackagePath>www\cordova.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\cordova_plugins.js">
+      <PackagePath>www\cordova_plugins.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\gulpfile.js">
+      <PackagePath>www\gulpfile.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\js\index.js">
+      <PackagePath>www\js\index.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\js\sb-admin-charts.js">
+      <PackagePath>www\js\sb-admin-charts.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\js\sb-admin-charts.min.js">
+      <PackagePath>www\js\sb-admin-charts.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\js\sb-admin-datatables.js">
+      <PackagePath>www\js\sb-admin-datatables.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\js\sb-admin-datatables.min.js">
+      <PackagePath>www\js\sb-admin-datatables.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\js\sb-admin.js">
+      <PackagePath>www\js\sb-admin.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\js\sb-admin.min.js">
+      <PackagePath>www\js\sb-admin.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\bootstrap\js\bootstrap.bundle.js">
+      <PackagePath>www\vendor\bootstrap\js\bootstrap.bundle.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\bootstrap\js\bootstrap.bundle.min.js">
+      <PackagePath>www\vendor\bootstrap\js\bootstrap.bundle.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\bootstrap\js\bootstrap.js">
+      <PackagePath>www\vendor\bootstrap\js\bootstrap.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\bootstrap\js\bootstrap.min.js">
+      <PackagePath>www\vendor\bootstrap\js\bootstrap.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\chart.js\Chart.bundle.js">
+      <PackagePath>www\vendor\chart.js\Chart.bundle.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\chart.js\Chart.bundle.min.js">
+      <PackagePath>www\vendor\chart.js\Chart.bundle.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\chart.js\Chart.js">
+      <PackagePath>www\vendor\chart.js\Chart.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\chart.js\Chart.min.js">
+      <PackagePath>www\vendor\chart.js\Chart.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\datatables\dataTables.bootstrap4.js">
+      <PackagePath>www\vendor\datatables\dataTables.bootstrap4.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\datatables\jquery.dataTables.js">
+      <PackagePath>www\vendor\datatables\jquery.dataTables.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\jquery-easing\jquery.easing.compatibility.js">
+      <PackagePath>www\vendor\jquery-easing\jquery.easing.compatibility.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\jquery-easing\jquery.easing.js">
+      <PackagePath>www\vendor\jquery-easing\jquery.easing.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\jquery-easing\jquery.easing.min.js">
+      <PackagePath>www\vendor\jquery-easing\jquery.easing.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\jquery\jquery.js">
+      <PackagePath>www\vendor\jquery\jquery.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\jquery\jquery.min.js">
+      <PackagePath>www\vendor\jquery\jquery.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\WinJS\js\base.js">
+      <PackagePath>www\WinJS\js\base.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\css\index.css">
+      <PackagePath>www\css\index.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\css\sb-admin.css">
+      <PackagePath>www\css\sb-admin.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\css\sb-admin.min.css">
+      <PackagePath>www\css\sb-admin.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\css\splashscreen.css">
+      <PackagePath>www\css\splashscreen.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\bootstrap\css\bootstrap-grid.css">
+      <PackagePath>www\vendor\bootstrap\css\bootstrap-grid.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\bootstrap\css\bootstrap-grid.min.css">
+      <PackagePath>www\vendor\bootstrap\css\bootstrap-grid.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\bootstrap\css\bootstrap-reboot.css">
+      <PackagePath>www\vendor\bootstrap\css\bootstrap-reboot.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\bootstrap\css\bootstrap-reboot.min.css">
+      <PackagePath>www\vendor\bootstrap\css\bootstrap-reboot.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\bootstrap\css\bootstrap.css">
+      <PackagePath>www\vendor\bootstrap\css\bootstrap.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\bootstrap\css\bootstrap.min.css">
+      <PackagePath>www\vendor\bootstrap\css\bootstrap.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\datatables\dataTables.bootstrap4.css">
+      <PackagePath>www\vendor\datatables\dataTables.bootstrap4.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\font-awesome\css\font-awesome.css">
+      <PackagePath>www\vendor\font-awesome\css\font-awesome.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\font-awesome\css\font-awesome.min.css">
+      <PackagePath>www\vendor\font-awesome\css\font-awesome.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\LICENSE">
+      <PackagePath>www\LICENSE</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\package.json">
+      <PackagePath>www\package.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\pug\blank.pug">
+      <PackagePath>www\pug\blank.pug</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\pug\cards.pug">
+      <PackagePath>www\pug\cards.pug</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\pug\charts.pug">
+      <PackagePath>www\pug\charts.pug</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\pug\forgot-password.pug">
+      <PackagePath>www\pug\forgot-password.pug</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\pug\includes\css\core.pug">
+      <PackagePath>www\pug\includes\css\core.pug</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\pug\includes\css\custom.pug">
+      <PackagePath>www\pug\includes\css\custom.pug</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\pug\includes\footer.pug">
+      <PackagePath>www\pug\includes\footer.pug</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\pug\includes\js\core.pug">
+      <PackagePath>www\pug\includes\js\core.pug</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\pug\includes\js\custom.pug">
+      <PackagePath>www\pug\includes\js\custom.pug</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\pug\includes\modals\logout.pug">
+      <PackagePath>www\pug\includes\modals\logout.pug</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\pug\includes\navbar.pug">
+      <PackagePath>www\pug\includes\navbar.pug</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\pug\includes\scroll-to-top.pug">
+      <PackagePath>www\pug\includes\scroll-to-top.pug</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\pug\index.pug">
+      <PackagePath>www\pug\index.pug</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\pug\login.pug">
+      <PackagePath>www\pug\login.pug</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\pug\navbar.pug">
+      <PackagePath>www\pug\navbar.pug</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\pug\register.pug">
+      <PackagePath>www\pug\register.pug</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\pug\tables.pug">
+      <PackagePath>www\pug\tables.pug</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\README.md">
+      <PackagePath>www\README.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\scss\navbar\_navbar_colors.scss">
+      <PackagePath>www\scss\navbar\_navbar_colors.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\scss\navbar\_navbar_fixed.scss">
+      <PackagePath>www\scss\navbar\_navbar_fixed.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\scss\navbar\_navbar_global.scss">
+      <PackagePath>www\scss\navbar\_navbar_global.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\scss\navbar\_navbar_static.scss">
+      <PackagePath>www\scss\navbar\_navbar_static.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\scss\navbar\_navbar_toggle.scss">
+      <PackagePath>www\scss\navbar\_navbar_toggle.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\scss\sb-admin.scss">
+      <PackagePath>www\scss\sb-admin.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\scss\_cards.scss">
+      <PackagePath>www\scss\_cards.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\scss\_footer.scss">
+      <PackagePath>www\scss\_footer.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\scss\_global.scss">
+      <PackagePath>www\scss\_global.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\scss\_login.scss">
+      <PackagePath>www\scss\_login.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\scss\_mixins.scss">
+      <PackagePath>www\scss\_mixins.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\scss\_utilities.scss">
+      <PackagePath>www\scss\_utilities.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\scss\_variables.scss">
+      <PackagePath>www\scss\_variables.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\font-awesome\scss\font-awesome.scss">
+      <PackagePath>www\vendor\font-awesome\scss\font-awesome.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\font-awesome\scss\_animated.scss">
+      <PackagePath>www\vendor\font-awesome\scss\_animated.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\font-awesome\scss\_bordered-pulled.scss">
+      <PackagePath>www\vendor\font-awesome\scss\_bordered-pulled.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\font-awesome\scss\_core.scss">
+      <PackagePath>www\vendor\font-awesome\scss\_core.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\font-awesome\scss\_fixed-width.scss">
+      <PackagePath>www\vendor\font-awesome\scss\_fixed-width.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\font-awesome\scss\_icons.scss">
+      <PackagePath>www\vendor\font-awesome\scss\_icons.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\font-awesome\scss\_larger.scss">
+      <PackagePath>www\vendor\font-awesome\scss\_larger.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\font-awesome\scss\_list.scss">
+      <PackagePath>www\vendor\font-awesome\scss\_list.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\font-awesome\scss\_mixins.scss">
+      <PackagePath>www\vendor\font-awesome\scss\_mixins.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\font-awesome\scss\_path.scss">
+      <PackagePath>www\vendor\font-awesome\scss\_path.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\font-awesome\scss\_rotated-flipped.scss">
+      <PackagePath>www\vendor\font-awesome\scss\_rotated-flipped.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\font-awesome\scss\_screen-reader.scss">
+      <PackagePath>www\vendor\font-awesome\scss\_screen-reader.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\font-awesome\scss\_stacked.scss">
+      <PackagePath>www\vendor\font-awesome\scss\_stacked.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\font-awesome\scss\_variables.scss">
+      <PackagePath>www\vendor\font-awesome\scss\_variables.scss</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\font-awesome\fonts\fontawesome-webfont.eot">
+      <PackagePath>www\vendor\font-awesome\fonts\fontawesome-webfont.eot</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\font-awesome\fonts\fontawesome-webfont.svg">
+      <PackagePath>www\vendor\font-awesome\fonts\fontawesome-webfont.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\font-awesome\fonts\fontawesome-webfont.ttf">
+      <PackagePath>www\vendor\font-awesome\fonts\fontawesome-webfont.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\font-awesome\fonts\fontawesome-webfont.woff">
+      <PackagePath>www\vendor\font-awesome\fonts\fontawesome-webfont.woff</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\font-awesome\fonts\fontawesome-webfont.woff2">
+      <PackagePath>www\vendor\font-awesome\fonts\fontawesome-webfont.woff2</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\font-awesome\fonts\FontAwesome.otf">
+      <PackagePath>www\vendor\font-awesome\fonts\FontAwesome.otf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\font-awesome\less\animated.less">
+      <PackagePath>www\vendor\font-awesome\less\animated.less</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\font-awesome\less\bordered-pulled.less">
+      <PackagePath>www\vendor\font-awesome\less\bordered-pulled.less</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\font-awesome\less\core.less">
+      <PackagePath>www\vendor\font-awesome\less\core.less</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\font-awesome\less\fixed-width.less">
+      <PackagePath>www\vendor\font-awesome\less\fixed-width.less</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\font-awesome\less\font-awesome.less">
+      <PackagePath>www\vendor\font-awesome\less\font-awesome.less</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\font-awesome\less\icons.less">
+      <PackagePath>www\vendor\font-awesome\less\icons.less</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\font-awesome\less\larger.less">
+      <PackagePath>www\vendor\font-awesome\less\larger.less</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\font-awesome\less\list.less">
+      <PackagePath>www\vendor\font-awesome\less\list.less</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\font-awesome\less\mixins.less">
+      <PackagePath>www\vendor\font-awesome\less\mixins.less</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\font-awesome\less\path.less">
+      <PackagePath>www\vendor\font-awesome\less\path.less</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\font-awesome\less\rotated-flipped.less">
+      <PackagePath>www\vendor\font-awesome\less\rotated-flipped.less</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\font-awesome\less\screen-reader.less">
+      <PackagePath>www\vendor\font-awesome\less\screen-reader.less</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\font-awesome\less\stacked.less">
+      <PackagePath>www\vendor\font-awesome\less\stacked.less</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\www\vendor\font-awesome\less\variables.less">
+      <PackagePath>www\vendor\font-awesome\less\variables.less</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\config.xml">
+      <PackagePath>config.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\cordova\contacasal\platforms\windows\build\windows\debug\anycpu\win8.1\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.17018</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.17018</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
