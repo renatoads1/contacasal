@@ -5728,6 +5728,13 @@ a.bg-dark:focus, a.bg-dark:hover {
   background-color: #1d2124 !important;
 }
 
+.bg-blueviolet {
+  background-color: #8A2BE2 !important;
+}
+a.bg-blueviolet:focus, a.bg-blueviolet:hover {
+  background-color: #8A2BE2 !important;
+}
+
 .bg-white {
   background-color: #fff !important;
 }
